@@ -2,6 +2,10 @@
 
 # Conceptos básicos
 
+## *Lógica de programación*
+
+Lógica de programación es la forma de escribir un programa de ordenador, un algoritmo. Un algoritmo es una secuencia de pasos para realizar una función. 
+
 ## *Lenguaje*
 
 Sistema de signos que utiliza una comunidad para comunicarse oralmente o por escrito.
