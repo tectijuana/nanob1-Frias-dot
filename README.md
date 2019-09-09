@@ -1,28 +1,59 @@
-![](http://www.bettshow.com/library_5/1738756_assocImage_2.png?rndUUID=935D8560-F6D9-649D-B65F22B5D35C8F97)
+![](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
-<a href="https://cooltext.com"><img src="https://images.cooltext.com/4970280.png" width="477" height="65" alt="T E M P L E T E" /></a>
-<a href="http://cooltext.com" target="_top"><img src="https://cooltext.com/images/ct_pixel.gif" width="80" height="15" alt="Cool Text: Logo and Graphics Generator" border="0" /></a>
+# Conceptos básicos
 
-Plantilla generica de todo repositorio.
+## *Lenguaje de programación*
 
-1. Tutor básico de Git en 15 minutos http://try.github.com por CodeSchool
-2. Git Guru https://www.atlassian.com/git/tutorials por GitBucket
-3. Git comandos como glosario https://www.atlassian.com/git/glossary
-4. DZone resumen tutorial mas popular https://dzone.com/refcardz/getting-started-git
-5. Nuestro glosario español https://github.com/tectijuana/PlantillaInicio/blob/master/glosario.md
+Es un lenguaje formal que proporciona una serie de instrucciones que permiten a un programador escribir secuencias de órdenes y algoritmos a modo de controlar el comportamiento físico y lógico de una computadora con el objetivo de que produzca diversas clases de datos.
 
-----
+## *Algoritmo*
 
-Git for Windows hay tres versiones pero la mas recomendable es https://git-scm.com/download/win Git For Windows 2
+Conjunto ordenado de operaciones sistemáticas que permite hacer un cálculo y hallar la solución de un tipo de problemas.
 
-----
+## *Algoritmos cotidianos*
 
-![](http://www.linuxandubuntu.com/uploads/2/1/1/5/21152474/basics-linux-commands_orig.jpg)
+Inicio
 
-Aprender Linux básico 
-https://likegeeks.com/main-linux-commands-easy-guide/
+Dormir 
 
-Tips de Linux para ser productivos
-https://dzone.com/articles/most-useful-linux-command-line-tricks?edition=306244&utm_source=weekly%20digest&utm_medium=email&utm_campaign=wd%202017-07-12
+haga 1 hasta que suene el despertador (o lo llame la mamá).
 
+Mirar la hora.
 
+¿Hay tiempo suficiente?
+
+Si hay, entonces 
+    Bañarse.
+    Vestirse.
+    Desayunar.
+    
+Sino, 
+      Vestirse.
+
+Cepillarse los dientes.
+
+Despedirse de la mamá y el papá.
+
+   ¿Hay tiempo suficiente?
+   
+Si, Caminar al paradero.
+
+Sino, Correr al paradero.
+
+Hasta que pase un bus para la universidad haga :
+    Esperar el bus
+    Ver a las demás personas que esperan un  bus.
+    
+Tomar el bus.
+
+Mientras no llegue a la universidad haga : 
+    Seguir en el bus.
+    Pelear mentalmente con el conductor.
+    
+Timbrar.
+
+Bajarse.
+
+Entrar a la universidad. 
+
+Fin
