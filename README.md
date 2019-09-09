@@ -40,15 +40,17 @@ Si, Caminar al paradero.
 
 Sino, Correr al paradero.
 
-Hasta que pase un bus para la universidad haga :
-    Esperar el bus
-    Ver a las demás personas que esperan un  bus.
-    
-Tomar el bus.
+Hasta que pase un bus para la universidad haga
 
-Mientras no llegue a la universidad haga : 
-    Seguir en el bus.
-    Pelear mentalmente con el conductor.
+Esperar el bus
+    
+Ver a las demás personas que esperan un  bus.
+
+Mientras no llegue a la universidad haga  
+
+Seguir en el bus.
+   
+Pelear mentalmente con el conductor.
     
 Timbrar.
 
